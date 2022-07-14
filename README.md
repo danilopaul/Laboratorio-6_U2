@@ -137,6 +137,8 @@ El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la ot
 
 6. Video
 
+https://youtu.be/BL9qEjqMpHM
+
 7. Conclusiones
 
 - Se ha pidido concluir que la transferencia de potencia máxima no coincide con la eficiencia máxima. La aplicación del teorema de la máxima transferencia de energía a el reparto de energía de CA no dará como consecuencia una eficiencia máxima; Sino mas bien la finalidad de la alta eficiencia es más relevante para el reparto de energía de CA, que dicta una impedancia del generador subjetivamente baja comparativamente con la impedancia de carga. 
