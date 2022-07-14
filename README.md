@@ -18,4 +18,8 @@
 
 3. Requisitos Previos:
 
-    Mrreintescoy tajes cion de volied
+Mediciones de Voltaje
+
+  RL= 200Ω
+  
+
