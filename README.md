@@ -31,7 +31,7 @@ Mediciones de Voltaje:
 
 RL=200Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887214-475896cb-8dc6-47d5-aa86-018c56d4320a.png)
+![image](https://user-images.githubusercontent.com/105687213/178889971-97295408-af67-46cf-8734-53edec463bac.png)
 
 RL=470Ω
 
