@@ -35,7 +35,7 @@ RL=200Ω
 
 RL=470Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887333-01c95eca-457a-42a8-925b-d8aecb39355b.png)
+![image](https://user-images.githubusercontent.com/105687375/178890514-805e98cd-0565-461d-8783-17445587f450.png)
 
 RL=680Ω
 
