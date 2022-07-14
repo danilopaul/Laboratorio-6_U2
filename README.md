@@ -133,9 +133,7 @@ El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la ot
 
 Gráfique la curva Potencia vs RL
 
-![image](https://user-images.githubusercontent.com/105687213/178897165-8761e2d4-56df-4a0c-82fc-4053079f7ea4.png)
-
-
+![image](https://user-images.githubusercontent.com/105684550/178901628-02e6da0f-5c4e-493d-8e56-559e6f79ed7e.png)
 
 6. Video
 
