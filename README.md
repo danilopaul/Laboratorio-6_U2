@@ -39,11 +39,11 @@ RL=470Ω
 
 RL=680Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887420-e34f0673-4999-4012-b668-4fc5ead45235.png)
+![image](https://user-images.githubusercontent.com/105687375/178891723-a5b4a2f6-3c0f-45b8-b8bb-454258eafd88.png)
 
 RL=820Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887551-385aabe4-1cd0-4d42-b9c9-8a1ef3d17cb7.png)
+![image](https://user-images.githubusercontent.com/105687375/178891338-cc37cd94-954e-4c2e-949a-35a094d23830.png)
 
 RL=1000Ω
 
