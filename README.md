@@ -75,6 +75,10 @@ RL=4700Ω
 
 5. Resolución
 
+-
+
+![image](https://user-images.githubusercontent.com/105684550/178894781-2ffca972-0802-4699-85f9-44f38ceed8f3.png)
+
 6. Conclusiones
 
 7. Video
