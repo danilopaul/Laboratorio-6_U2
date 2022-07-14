@@ -20,6 +20,7 @@
 
 Mediciones de Voltaje
 
-  RL=220Ω    
+    R
+    Ω992 = L
   
 
