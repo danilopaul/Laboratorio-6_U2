@@ -75,9 +75,65 @@ RL=4700Ω
 
 5. Resolución
 
--
+RL=220
+
+P=(0.01056)^2(220)       P=0.024W
+
+RL=470
+
+P=(0.00898)^2(470)       P=0.0379W
+
+RL=680
+
+P=(0.00798)^2(680)       P=0.0433W
+
+RL=820
+
+P=(0.00743)^2(820)       P=0.0452W
+
+RL=1000
+
+P=(0.00682)^2(1000)       P=0.0465W
+
+RL=1500
+
+P=(0.00556)^2(1500)       P=0.0463W
+
+RL=1800
+
+P=(0.005)^2(1800)       P=0.045W
+
+RL=2200
+
+P=(0.00441)^2(2200)       P=0.0427W
+
+RL=3900
+
+P=(0.00294)^2(3900)       P=0.0337W
+
+RL=4700
+
+P=(0.00254)^2(4700)       P=0.030W
 
 ![image](https://user-images.githubusercontent.com/105684550/178894781-2ffca972-0802-4699-85f9-44f38ceed8f3.png)
+
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
+
+El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la otra resistencia que se encuentra en el circuito en serie por lo tanto la potencia será máxima. En este caso si se cumple el teorema ya que la resistencia de 1 kΩ, que es la que más se acerca a tener el valor de 1.2 kΩ, es la que tiene mayor valor de potencia.
+
+¿Cuál fue la potencia máxima en RL? 
+
+0.475  watts
+
+¿Para qué valor de RL se obtiene la MTP? 
+
+1000 Ω
+
+Gráfique la curva Potencia vs RL
+
+![image](https://user-images.githubusercontent.com/105687213/178897165-8761e2d4-56df-4a0c-82fc-4053079f7ea4.png)
+
+
 
 6. Video
 
