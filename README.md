@@ -18,9 +18,49 @@
 
 3. Requisitos Previos:
 
-Mediciones de Voltaje
+Mediciones de Voltaje:
 
-    R
-    Ω992 = L
+RL=200Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887214-475896cb-8dc6-47d5-aa86-018c56d4320a.png)
+
+RL=470Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887333-01c95eca-457a-42a8-925b-d8aecb39355b.png)
+
+RL=680Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887420-e34f0673-4999-4012-b668-4fc5ead45235.png)
+
+RL=820Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887551-385aabe4-1cd0-4d42-b9c9-8a1ef3d17cb7.png)
+
+RL=1000Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887623-6c918f2d-9cdd-4488-b7e9-1e59ba9540c7.png)
+
+RL=1500Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887780-6c3fad64-9b4f-42a1-8698-367162ad0660.png)
+
+RL=1800Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887924-607ebb58-440c-4c9f-88c9-4af569bc70f0.png)
+
+RL=2200Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178887994-6abb0e3e-af22-4a27-b50b-b80ef58bef0b.png)
+
+RL=3900Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178888058-194c0eb7-956c-4f18-bef8-03043c2e183c.png)
+
+RL=4700Ω
+
+![image](https://user-images.githubusercontent.com/105687375/178888143-d7565461-5bef-4fbf-afcd-af202003df47.png)
+
+
+
   
 
