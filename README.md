@@ -10,11 +10,20 @@
 
 1.1. Objetivos General:
 
+Determinar la fórmula y el proceso que con lleva el Teorema de transferencia de potencia máxima en conjunto con sus características principales, para poder aplicarlo en la simplificación y resolución del ejercicio planteado para finalizar con la verificación del proceso por medio del correcto uso de las leyes fundamentales (ley de ohm y Kirchhoff).
+
 1.2. OBjetivos especificos:
+
+- Identificar la relación existente o no existente entre el teorema de transferencia máxima de potencia con la eficiencia en una distribución de energía de CA.
+
+-Definir los pasos o el proceso a seguir para aplicar el Teorema de transferencia máxima de potencia de la manera adecuada.
+
+-Exponer el papel que ocupa una resistencia de carga en la aplicación del teorema de transferencia de potencia máxima, y como este llega a ser de gran importancia.
 
 2. Marco Teorico:
 
 ![image](https://user-images.githubusercontent.com/105687375/178885736-3dd417e3-6ef3-45e8-a0a4-93846abe1c9c.png)
+Link del mapa mental: https://www.canva.com/design/DAFGWej2Huw/pEW6dufg8AUFDNpl219tjA/view?utm_content=DAFGWej2Huw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 3. Requisitos Previos:
 
