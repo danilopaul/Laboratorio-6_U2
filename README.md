@@ -20,6 +20,6 @@
 
 Mediciones de Voltaje
 
-  RL= 200Ω
+  RL=220Ω
   
 
