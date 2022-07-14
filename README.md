@@ -115,7 +115,9 @@ RL=4700
 
 P=(0.00254)^2(4700)       P=0.030W
 
-![image](https://user-images.githubusercontent.com/105684550/178894781-2ffca972-0802-4699-85f9-44f38ceed8f3.png)
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+
+![image](https://user-images.githubusercontent.com/105684550/178900717-776af8ce-2aa5-4309-9587-dd915d21c026.png)
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
 
