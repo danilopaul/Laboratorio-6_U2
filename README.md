@@ -123,7 +123,7 @@ El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la ot
 
 ¿Cuál fue la potencia máxima en RL? 
 
-0.475  watts
+0.475   W
 
 ¿Para qué valor de RL se obtiene la MTP? 
 
