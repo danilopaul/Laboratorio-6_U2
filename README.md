@@ -115,7 +115,7 @@ RL=4700
 
 P=(0.00254)^2(4700)       P=0.030W
 
-Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+                                 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/105684550/178900717-776af8ce-2aa5-4309-9587-dd915d21c026.png)
 
@@ -131,9 +131,9 @@ El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la ot
 
 1000 Ω
 
-Gráfique la curva Potencia vs RL
+                                         Gráfique la curva Potencia vs RL
 
-![image](https://user-images.githubusercontent.com/105684550/178901628-02e6da0f-5c4e-493d-8e56-559e6f79ed7e.png)
+![image](https://user-images.githubusercontent.com/105684550/178902084-ca4afeec-61fb-4649-a106-62b58896eaa3.png)
 
 6. Video
 
