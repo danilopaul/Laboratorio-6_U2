@@ -79,9 +79,15 @@ RL=4700Ω
 
 ![image](https://user-images.githubusercontent.com/105684550/178894781-2ffca972-0802-4699-85f9-44f38ceed8f3.png)
 
-6. Conclusiones
+6. Video
 
-7. Video
+7. Conclusiones
+
+- Se ha pidido concluir que la transferencia de potencia máxima no coincide con la eficiencia máxima. La aplicación del teorema de la máxima transferencia de energía a el reparto de energía de CA no dará como consecuencia una eficiencia máxima; Sino mas bien la finalidad de la alta eficiencia es más relevante para el reparto de energía de CA, que dicta una impedancia del generador subjetivamente baja comparativamente con la impedancia de carga. 
+
+- También se ha expuesto a detalle el proceso de aplicación del Teorema de transferencia de potencia máxima, resumida en el marco teórico por medio de cuatro pasos, mismo que hacen uso de la formula de este teorema; Cave recalcar que para obtener los calculos realizados es necesario tener conocimiento de las leyes básicas de circuitos y las características principales de los circuitos en serie y/o paralelo, juntamento en como afecta esto a los componentes del circuito.
+
+- Para finalizar, el teorema de transferencia de potencia máxima no es tanto un medio de estudio como una ayuda para el diseño del sistema, es decir, la porción máxima de energía se disipará por una resistencia de carga una vez que dicha resistencia de carga sea igual a la resistencia de Thevenin/Norton de la red que suministra la energía.
 
 8. Bibliografía
 
