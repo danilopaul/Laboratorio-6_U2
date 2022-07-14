@@ -119,7 +119,7 @@ P=(0.00254)^2(4700)       P=0.030W
 
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
 
-El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la otra resistencia que se encuentra en el circuito en serie por lo tanto la potencia será máxima. En este caso si se cumple el teorema ya que la resistencia de 1 kΩ, que es la que más se acerca a tener el valor de 1.2 kΩ, es la que tiene mayor valor de potencia.
+El Teorema dice que, si el valor de la resistencia RL es el mismo valor de la otra resistencia que se encuentra en el circuito en serie por lo tanto la potencia será máxima. En este caso si se cumple el teorema ya que la resistencia de 1 kΩ, que es la que más se acerca a tener el valor de 1.5 kΩ y es la que tiene mayor valor de potencia.
 
 ¿Cuál fue la potencia máxima en RL? 
 
