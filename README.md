@@ -47,27 +47,28 @@ RL=820Ω
 
 RL=1000Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887623-6c918f2d-9cdd-4488-b7e9-1e59ba9540c7.png)
+![image](https://user-images.githubusercontent.com/105687375/178892065-eddcc9f3-78ef-4e2a-b2cb-6fac6f9856c5.png)
 
 RL=1500Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887780-6c3fad64-9b4f-42a1-8698-367162ad0660.png)
+![image](https://user-images.githubusercontent.com/105687375/178893512-0b139394-16fc-4563-88e6-b6a14714e8c9.png)
 
 RL=1800Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887924-607ebb58-440c-4c9f-88c9-4af569bc70f0.png)
+![image](https://user-images.githubusercontent.com/105687375/178893599-15aef7a8-0bff-448b-9296-604d9d74973e.png)
 
 RL=2200Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178887994-6abb0e3e-af22-4a27-b50b-b80ef58bef0b.png)
+![image](https://user-images.githubusercontent.com/105687375/178893712-aee3c4bd-e525-4f62-9253-152e54538ede.png)
 
 RL=3900Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178888058-194c0eb7-956c-4f18-bef8-03043c2e183c.png)
+![image](https://user-images.githubusercontent.com/105687375/178893814-e036a2fc-6451-4222-b08f-ee64ec3ccc6b.png)
 
 RL=4700Ω
 
-![image](https://user-images.githubusercontent.com/105687375/178888143-d7565461-5bef-4fbf-afcd-af202003df47.png)
+![image](https://user-images.githubusercontent.com/105687375/178893927-e401fa61-d897-41d9-a026-d888ff19dda9.png)
+
 
 
 
