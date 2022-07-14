@@ -69,7 +69,19 @@ RL=4700Ω
 
 ![image](https://user-images.githubusercontent.com/105687375/178893927-e401fa61-d897-41d9-a026-d888ff19dda9.png)
 
+4. Materiales y equipos requeridos
 
+![image](https://user-images.githubusercontent.com/105684550/178894499-1ed19bc8-e46c-43e6-bdf5-b2bee60ecfdd.png)
+
+5. Resolución
+
+6. Conclusiones
+
+7. Video
+
+8. Bibliografía
+
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
 
 
   
